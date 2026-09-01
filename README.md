@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Emily 👩🏻‍💻
 
-<!--
-**Emily2311/Emily2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Interessada em desenvolvimento de software, tecnologia e criação de projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou desenvolvendo meus conhecimentos em diferentes áreas da programação através da faculdade, projetos e estudos pessoais.
+
+## 🛠️ Tecnologias
+
+* Java
+* JavaScript
+* TypeScript
+* HTML
+* CSS
+* React
+* PHP
+* MySQL
+* Git
+* GitHub
+
+
+## 🚀 Sobre meus projetos
+
+Aqui você encontrará projetos acadêmicos e pessoais que desenvolverei durante minha jornada em tecnologia.

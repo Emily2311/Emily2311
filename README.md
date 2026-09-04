@@ -1,4 +1,4 @@
-# Hi, I'm Emily 👩🏻‍💻
+# Emily Pereira Gonçalves 👩🏻‍💻
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
